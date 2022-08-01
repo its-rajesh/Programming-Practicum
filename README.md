@@ -3,7 +3,7 @@ Teaching Assistant for the course CS571 Programming Practicum: August - December
 
 
 
-### Week 2: Review of Programming I [go](Week2.ipynb)
+### Week 2: Review of Programming I [view](Week2.ipynb)
 - Running first python code
 - Basic computations in python
 - Data types
