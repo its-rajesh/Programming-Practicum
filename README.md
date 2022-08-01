@@ -1,5 +1,5 @@
 # Programming-Practicum
-Teaching Assistant for the course CS571 Programming Practicum: August - December 2022 Semester at Indian Institute of Technology, Mandi
+Teaching Assistant for the course CS571 Programming Practicum: August - December 2022 Semester at Indian Institute of Technology, Mandi. This repository contains the google colab notebook tutorials.
 
 
 
@@ -12,3 +12,6 @@ Teaching Assistant for the course CS571 Programming Practicum: August - December
 - Conditional statements
 - Looping statements
 - Additional examples (casting, int-str concat, pattern printings)
+
+
+### Week 3: Review of Programming II
