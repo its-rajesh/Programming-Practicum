@@ -14,4 +14,4 @@ Teaching Assistant for the course CS571 Programming Practicum: August - December
 - Additional examples (casting, int-str concat, pattern printings)
 
 
-### Week 3: Review of Programming II
+### [Week 3: Review of Programming II](week3.ipynb)
