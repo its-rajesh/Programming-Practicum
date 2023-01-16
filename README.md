@@ -51,4 +51,5 @@ Teaching Assistant for the course CS571 Programming Practicum: August - December
 ### [Week 8: Systems]()
 - Building systems
 - LTI System Responses
+- Filtering 1D/2D
 
