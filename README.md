@@ -15,3 +15,8 @@ Teaching Assistant for the course CS571 Programming Practicum: August - December
 
 
 ### [Week 3: Review of Programming II](Week3.ipynb)
+
+### [Week 4: Review of Programming II](Week4.ipynb)
+
+### [Week 5: Review of Programming II](Week5.ipynb)
+
