@@ -14,7 +14,7 @@ Teaching Assistant for the course CS571 Programming Practicum: August - December
 - Additional examples (casting, int-str concat, pattern printings)
 
 
-### [Week 3: Review of Programming II & Advanced Data Types](Week3.ipynb)
+### [Week 3: Review of Programming II & Advanced Data Types I](Week3.ipynb)
 - Functions
 - Special Functions (Lambda, etc)
 - Variable Scopes
@@ -25,7 +25,20 @@ Teaching Assistant for the course CS571 Programming Practicum: August - December
 - Queues
 - Additional examples (Balacing Paranthesis, etc)
 
-### [Week 4: Review of Programming II](Week4.ipynb)
+### [Week 4:  Advanced Data Types II & String Manipulations](Week4.ipynb)
+- Tuples
+- Sets
+- Dictionary
+- Python String Manipulations
 
 ### [Week 5: Signal Class](Week5.ipynb)
+- 1D Audio Signals
+- Read/Write Audio using Librosa/SoundFile
+- Generate audios
+- Fast Fourier Transforms
+
+### [Week 6: Object Oriented Programming]()
+- Signal Class
+- Signal Operations using OOPS Concepts
+-
 
