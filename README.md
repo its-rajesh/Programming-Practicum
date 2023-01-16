@@ -14,7 +14,16 @@ Teaching Assistant for the course CS571 Programming Practicum: August - December
 - Additional examples (casting, int-str concat, pattern printings)
 
 
-### [Week 3: Review of Programming II](Week3.ipynb)
+### [Week 3: Review of Programming II & Advanced Data Types](Week3.ipynb)
+- Functions
+- Special Functions (Lambda, etc)
+- Variable Scopes
+- Recursion
+- Arrays & Lists
+- Multidimensional Arrays/Lists
+- Stacks
+- Queues
+- Additional examples (Balacing Paranthesis, etc)
 
 ### [Week 4: Review of Programming II](Week4.ipynb)
 
