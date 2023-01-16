@@ -31,14 +31,24 @@ Teaching Assistant for the course CS571 Programming Practicum: August - December
 - Dictionary
 - Python String Manipulations
 
-### [Week 5: Signal Class](Week5.ipynb)
-- 1D Audio Signals
-- Read/Write Audio using Librosa/SoundFile
-- Generate audios
-- Fast Fourier Transforms
+### [Week 5: Numpy, Matplotlib, Pandas]()
+- Plotting various graphs 2D, 3D using Matplotlib/Seaborn
+- Array Processing using NumPy
+- 2D Arrays, CSV files with Pandas
+- Read, Write, Manipulate data's
 
-### [Week 6: Object Oriented Programming]()
+### [Week 6: Signals & Systems](Week5.ipynb)
+- Generate sinusoidal signals/audios
+- 1D Signals (Audio) review
+- Read/Write Audio using Librosa/SoundFile/Pydub
+- Fast Fourier Transforms
+- Time domain & Frequecy domain Analysis
+
+### [Week 7: Object Oriented Programming]()
 - Signal Class
-- Signal Operations using OOPS Concepts
--
+- Baisc signal operations using OOPS Concepts (shifting, reversal, add, sub, scalar mutiple.,etc)
+
+### [Week 8: Systems}()
+- Building systems
+- LTI System Responses
 
