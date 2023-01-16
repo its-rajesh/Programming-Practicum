@@ -48,7 +48,7 @@ Teaching Assistant for the course CS571 Programming Practicum: August - December
 - Signal Class
 - Baisc signal operations using OOPS Concepts (shifting, reversal, add, sub, scalar mutiple.,etc)
 
-### [Week 8: Systems}()
+### [Week 8: Systems]()
 - Building systems
 - LTI System Responses
 
